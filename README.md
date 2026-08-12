@@ -10,7 +10,7 @@
 
 De formation d'ingénieur en énergies renouvelables et efficacité énergétique, fondateur de
 **[Kuma Science](https://kumascience.com)** (entité guinéenne), entre la Guinée
-et Montréal, je construis l'infrastructure ouverte qui comble un déficit identifié en Afrique de l'Ouest : nos centrales solaires se dimensionnent sur des données satellitaires dont personne ne connait la marge d'erreur. Et personne n'en parle surtout. Malheureusement, ce détail bloque des projets d'électrification, du délestage une fois opérationnel, un LCOE insoutenable.
+et Montréal, je construis l'infrastructure ouverte qui comble un déficit identifié en Afrique de l'Ouest : nos centrales solaires se dimensionnent sur des données satellitaires dont personne ne connaît la marge d'erreur. Et personne n'en parle surtout. Malheureusement, ce détail, ce sont des projets d'électrification bloqués, du délestage une fois la centrale opérationnelle, un LCOE insoutenable.
 
 
 Installer des stations est la solution idéale. Mais elle n'est pas unique.
