@@ -11,8 +11,16 @@
 Ingénieur en énergies renouvelables et efficacité énergétique, fondateur de
 **[Kuma Science](https://kumascience.com)** (entité guinéenne), entre la Guinée
 et Montréal. En Afrique de l'Ouest, des centrales solaires se dimensionnent sur
-des données satellitaires jamais validées au sol ; je construis l'infrastructure
-ouverte qui comble ce déficit, en commençant par la Guinée.
+des données satellitaires dont personne ne connaît vraiment la marge d'erreur ;
+je construis l'infrastructure ouverte qui comble ce déficit, en commençant par
+la Guinée.
+
+La réponse ne se limite pas à installer des stations au sol : une station ne
+renseigne que son propre pixel. Je mène des travaux de recherche pour
+quantifier et lever les incertitudes de ces données au-delà du point de
+mesure : croisement systématique des sources satellitaires, limites de
+représentativité spatiale des pixels, transfert des corrections d'une zone
+climatique à l'autre.
 
 Le principe : **la confiance ne se déclare pas, elle se trace.** Chaque valeur
 publiée porte sa source, sa méthode, son niveau de confiance et ses limites
@@ -39,8 +47,10 @@ documentées.
 ## Parcours et publications
 
 Co-auteur, avec Daniel Rousse (ÉTS Montréal), de deux publications sur la
-décarbonation de communautés hors réseau au Nord québécois. Liste complète
-sur mon [ORCID](https://orcid.org/0009-0002-8292-1905).
+décarbonation de communautés hors réseau au Nord québécois. Travaux en cours
+sur la quantification des incertitudes des données solaires satellitaires en
+Afrique de l'Ouest. Liste complète sur mon
+[ORCID](https://orcid.org/0009-0002-8292-1905).
 
 ## Me lire, me joindre
 
