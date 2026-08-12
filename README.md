@@ -22,8 +22,15 @@ documentées.
 
 ## Projets à la une
 
-[![RDS Guinée](https://github-readme-stats.vercel.app/api/pin/?username=siba-IEE&repo=rds-guinee&show_owner=false&description_lines_count=2)](https://github.com/siba-IEE/rds-guinee)
-[![Kuma Data Core](https://github-readme-stats.vercel.app/api/pin/?username=siba-IEE&repo=kuma-data-core&show_owner=false&description_lines_count=2)](https://github.com/siba-IEE/kuma-data-core)
+[![RDS Guinée](https://img.shields.io/badge/RDS%20Guin%C3%A9e-le%20r%C3%A9f%C3%A9rentiel-1682D4?style=for-the-badge)](https://github.com/siba-IEE/rds-guinee)
+Référentiel de Données Solaires de la Guinée : les données ouvertes
+elles-mêmes, prêtes à télécharger, avec dictionnaire, limites documentées
+et archives citables sur Zenodo.
+
+[![Kuma Data Core](https://img.shields.io/badge/Kuma%20Data%20Core-le%20moteur-4A5568?style=for-the-badge)](https://github.com/siba-IEE/kuma-data-core)
+Le moteur qui produit le référentiel : ingestion multi-sources reproductible,
+niveaux de confiance tracés, versionnement non destructif, audit complet.
+PostgreSQL, FastAPI, Python.
 
 | Le référentiel en bref | |
 |---|---|
