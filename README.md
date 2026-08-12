@@ -1,43 +1,49 @@
 # Siba Kalivogui
 
-Ingénieur en énergies renouvelables et efficacité énergétique. Fondateur de
-[Kuma Science](https://kumascience.com), entité guinéenne. Basé entre la
-Guinée et Montréal.
+**Je fiabilise la donnée solaire de l'Afrique de l'Ouest.**
 
-Je construis une infrastructure de données énergétiques ouverte pour la
-Guinée, en commençant par le solaire. Le principe : la confiance ne se
-déclare pas, elle se trace. Chaque valeur publiée porte sa source, sa
-méthode, son niveau de confiance et ses limites documentées.
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21051754-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.21051754)
+[![Données](https://img.shields.io/badge/donn%C3%A9es-CC%20BY%204.0-2D7D46?style=flat-square)](https://github.com/siba-IEE/rds-guinee/blob/main/LICENSE)
+[![Moteur](https://img.shields.io/badge/moteur-AGPL--3.0-4A5568?style=flat-square)](https://github.com/siba-IEE/kuma-data-core)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8292--1905-A6CE39?style=flat-square)](https://orcid.org/0009-0002-8292-1905)
+[![Site](https://img.shields.io/badge/kumascience.com-1a1a2e?style=flat-square)](https://kumascience.com)
 
-## Le référentiel
+Ingénieur en énergies renouvelables et efficacité énergétique, fondateur de
+**[Kuma Science](https://kumascience.com)** (entité guinéenne), entre la Guinée
+et Montréal. En Afrique de l'Ouest, des centrales solaires se dimensionnent sur
+des données satellitaires jamais validées au sol ; je construis l'infrastructure
+ouverte qui comble ce déficit, en commençant par la Guinée.
 
-[**RDS Guinée**](https://github.com/siba-IEE/rds-guinee), Référentiel de
-Données Solaires de la Guinée : plus de 68 millions de mesures ouvertes
-(CC BY 4.0), 34 localités, 45 ans de profondeur historique, du pas mensuel
-au pas horaire, six sources croisées du satellite à la mesure au sol.
-Publié en versions archivées sous DOI :
-[10.5281/zenodo.21051754](https://doi.org/10.5281/zenodo.21051754).
+Le principe : **la confiance ne se déclare pas, elle se trace.** Chaque valeur
+publiée porte sa source, sa méthode, son niveau de confiance et ses limites
+documentées.
 
-Première brique d'un référentiel national des données énergétiques,
-proposé comme bien commun.
+---
 
-## Le moteur
+## Projets à la une
 
-[**kuma-data-core**](https://github.com/siba-IEE/kuma-data-core) produit et
-qualifie ces données : ingestion multi-sources reproductible, niveaux de
-confiance A/B/C dérivés par règles, versionnement temporel non destructif,
-audit, contrôle qualité au pas horaire (procédures BSRN). PostgreSQL et
-FastAPI, licence AGPL.
+[![RDS Guinée](https://github-readme-stats.vercel.app/api/pin/?username=siba-IEE&repo=rds-guinee&show_owner=false&description_lines_count=2)](https://github.com/siba-IEE/rds-guinee)
+[![Kuma Data Core](https://github-readme-stats.vercel.app/api/pin/?username=siba-IEE&repo=kuma-data-core&show_owner=false&description_lines_count=2)](https://github.com/siba-IEE/kuma-data-core)
+
+| Le référentiel en bref | |
+|---|---|
+| Mesures publiées | plus de 68 millions, sous DOI |
+| Couverture | 34 localités, 45 ans de profondeur (1981-2025) |
+| Granularités | mensuel, journalier, horaire |
+| Sources croisées | NASA POWER, SARAH-3, CAMS, ERA5-Land, mesures au sol |
+| Qualification | niveaux de confiance A / B / C tracés, contrôle qualité BSRN |
+
+---
 
 ## Parcours et publications
 
 Co-auteur, avec Daniel Rousse (ÉTS Montréal), de deux publications sur la
-décarbonation de communautés hors réseau au Nord québécois. Publications
-et identifiants : [ORCID 0009-0002-8292-1905](https://orcid.org/0009-0002-8292-1905).
+décarbonation de communautés hors réseau au Nord québécois. Liste complète
+sur mon [ORCID](https://orcid.org/0009-0002-8292-1905).
 
 ## Me lire, me joindre
 
-- Site : [kumascience.com](https://kumascience.com)
-- Portfolio : [siba-iee.github.io](https://siba-iee.github.io)
-- LinkedIn : [linkedin.com/in/siba-kalivogui](https://www.linkedin.com/in/siba-kalivogui)
-- Contact : contact@kumascience.com
+**[kumascience.com](https://kumascience.com)** ·
+[Portfolio](https://siba-iee.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/siba-kalivogui) ·
+contact@kumascience.com
