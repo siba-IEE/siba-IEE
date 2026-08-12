@@ -8,7 +8,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8292--1905-A6CE39?style=flat-square)](https://orcid.org/0009-0002-8292-1905)
 [![Site](https://img.shields.io/badge/kumascience.com-1a1a2e?style=flat-square)](https://kumascience.com)
 
-Ingénieur en énergies renouvelables et efficacité énergétique, fondateur de
+De formation d'ingénieur en énergies renouvelables et efficacité énergétique, fondateur de
 **[Kuma Science](https://kumascience.com)** (entité guinéenne), entre la Guinée
 et Montréal. En Afrique de l'Ouest, des centrales solaires se dimensionnent sur
 des données satellitaires dont personne ne connaît vraiment la marge d'erreur ;
