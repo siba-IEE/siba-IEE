@@ -10,19 +10,17 @@
 
 De formation d'ingénieur en énergies renouvelables et efficacité énergétique, fondateur de
 **[Kuma Science](https://kumascience.com)** (entité guinéenne), entre la Guinée
-et Montréal. En Afrique de l'Ouest, des centrales solaires se dimensionnent sur
-des données satellitaires dont personne ne connaît vraiment la marge d'erreur ;
-je construis l'infrastructure ouverte qui comble ce déficit, en commençant par
-la Guinée.
+et Montréal, je construis l'infrastructure ouverte qui comble un déficit identifié en Afrique de l'Ouest : nos centrales solaires se dimensionnent sur des données satellitaires dont personne ne connait la marge d'erreur. Et personne n'en parle surtout. Malheureusement, ce détail bloque des projets d'électrification, du délestage une fois opérationnel, un LCOE insoutenable.
 
-La réponse ne se limite pas à installer des stations au sol : une station ne
-renseigne que son propre pixel. Je mène des travaux de recherche pour
+
+Installer des stations est la solution idéale. Mais elle n'est pas unique.
+Je mène des travaux de recherche pour
 quantifier et lever les incertitudes de ces données au-delà du point de
 mesure : croisement systématique des sources satellitaires, limites de
 représentativité spatiale des pixels, transfert des corrections d'une zone
 climatique à l'autre.
 
-Le principe : **la confiance ne se déclare pas, elle se trace.** Chaque valeur
+Le principe qui me guide chez Kuma Science : **la confiance ne se déclare pas, elle se trace.** Chaque valeur
 publiée porte sa source, sa méthode, son niveau de confiance et ses limites
 documentées.
 
