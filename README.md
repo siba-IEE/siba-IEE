@@ -1,6 +1,6 @@
 # Siba Kalivogui
 
-**Je fiabilise la donnée solaire de l'Afrique de l'Ouest.**
+**Je fiabilise la donnée énergétique de l'Afrique de l'Ouest.**
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21051754-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.21051754)
 [![Données](https://img.shields.io/badge/donn%C3%A9es-CC%20BY%204.0-2D7D46?style=flat-square)](https://github.com/siba-IEE/rds-guinee/blob/main/LICENSE)
